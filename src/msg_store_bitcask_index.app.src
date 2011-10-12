@@ -1,0 +1,7 @@
+{application, msg_store_bitcask_index,
+ [{description, "Bitcask index for RabbitMQ message store"},
+  {vsn, "%%VSN%%"},
+  {modules, []},
+  {registered, []},
+  {env, []},
+  {applications, [kernel, stdlib, msg_store_bitcask_index]}]}.
