@@ -16,7 +16,7 @@ Inside the `rabbitmq-public-umbrella` directory do:
 
 		$ git clone git://github.com/videlalvaro/bitcask_wrapper.git
 
-	Then clone this repository:
+Then clone this repository:
 
 		$ git clone git://github.com/videlalvaro/msg_store_bitcask_index.git
 		$ cd msg_store_bitcask_index
