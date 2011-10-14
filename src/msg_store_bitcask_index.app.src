@@ -4,4 +4,4 @@
   {modules, []},
   {registered, []},
   {env, []},
-  {applications, [kernel, stdlib, msg_store_bitcask_index]}]}.
+  {applications, [kernel, stdlib, bitcask]}]}.
