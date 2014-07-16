@@ -12,8 +12,7 @@
          lookup/2, insert/2, update/2, update_fields/3, delete/2,
          delete_object/2, delete_by_file/2, terminate/1]).
 
--include_lib("rabbit_common/include/rabbit_msg_store_index.hrl").
--include_lib("bitcask/include/bitcask.hrl").
+-include_lib("rabbit_common/include/rabbit_msg_store.hrl").
 
 -define(BITCASK_DIR, "bitcask_data").
 
